@@ -1,2 +1,2 @@
 # web-caffe
-web demo of caffe
+A plant leaf diseases recogonition web demo of caffe
